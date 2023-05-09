@@ -1,1 +1,2 @@
-sample docker file to check the pipeline demo
+FROM httpd
+ADD . /usr/local/apache2/htdocs
