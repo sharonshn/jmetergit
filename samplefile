@@ -1,3 +1,10 @@
-enefkjanlfem
-sample test file 
+<!DOCTYPE html>
+<html>
+<body>
 
+<h2>Jenkins CI CD </h2>
+<p>Manual execution of Webserver 1 </p>
+<h1>Displays some weberver in port 82 maped to 80 </h1>
+
+</body>
+</html>
